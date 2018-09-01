@@ -1,0 +1,82 @@
+[
+    {
+    "id": "42",
+    "logo": "http://127.0.0.1:3000/logo.png",
+    "symbol": "BTC",
+    "name": "bitcoin",
+    "price": 16.5193,
+    "percentage": "18.2495%"
+    },
+    {
+    "id": "140",
+    "logo": "http://127.0.0.1:3000/logo.png",
+    "symbol": "ETH",
+    "name": "ethereum",
+    "price": 18.8268,
+    "percentage": "11.629%"
+    },
+    {
+    "id": "142",
+    "logo": "http://127.0.0.1:3000/logo.png",
+    "symbol": "LTC",
+    "name": "litecoin",
+    "price": 19.5878,
+    "percentage": "10.697%"
+    },
+    {
+    "id": "62",
+    "logo": "http://127.0.0.1:3000/logo.png",
+    "symbol": "RPL",
+    "name": "ripple",
+    "price": 11.4494,
+    "percentage": "17.9982%"
+    },
+    {
+    "id": "13",
+    "logo": "http://127.0.0.1:3000/logo.png",
+    "symbol": "EUG",
+    "name": "eugold",
+    "price": 17.0359,
+    "percentage": "17.1061%"
+    },
+    {
+    "id": "100",
+    "logo": "http://127.0.0.1:3000/logo.png",
+    "symbol": "KYL",
+    "name": "kylecoin",
+    "price": 18.4472,
+    "percentage": "18.0172%"
+    },
+    {
+    "id": "259",
+    "logo": "http://127.0.0.1:3000/logo.png",
+    "symbol": "TMN",
+    "name": "terminalcoin",
+    "price": 15.2965,
+    "percentage": "11.3377%"
+    },
+    {
+    "id": "266",
+    "logo": "http://127.0.0.1:3000/logo.png",
+    "symbol": "DGC",
+    "name": "dogecoin",
+    "price": 15.2861,
+    "percentage": "18.7524%"
+    },
+    {
+    "id": "195",
+    "logo": "http://127.0.0.1:3000/logo.png",
+    "symbol": "MET",
+    "name": "metacoin",
+    "price": 18.5581,
+    "percentage": "17.8459%"
+    },
+    {
+    "id": "20",
+    "logo": "http://127.0.0.1:3000/logo.png",
+    "symbol": "SKY",
+    "name": "skycoin",
+    "price": 19.7992,
+    "percentage": "16.091%"
+    }
+]
