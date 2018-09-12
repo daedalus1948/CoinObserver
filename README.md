@@ -16,6 +16,12 @@ Follow up with starting the application server via entry point.
 Finally, since the frontend portion was boostrapped via Vue-cli tools,
 refer to the scripts part of the package.json file for further instructions.
 
+## Detailed Instructions
+
+1) run 'npm install' and 'node server.js' in 'mock_remote_api' directory
+2) run 'npm install' and 'node master.js' in 'server' directory
+3) run 'npm install' and 'npm run dev' in 'client' directory
+
 ## Dependencies
 
 Javascript ES6, Node.js 10+, Vue 2.0+, SQlite
