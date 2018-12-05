@@ -2,14 +2,14 @@ import { shallowMount, mount, createLocalVue } from '@vue/test-utils';
 import VueRouter from 'vue-router';
 import Vuex from 'vuex';
 
-import About from './src/components/about.vue';
-import Legal from './src/components/legal.vue';
-import Info from './src/components/info.vue';
+import About from '@/components/about.vue';
+import Legal from '@/components/legal.vue';
+import Info from '@/components/info.vue';
 
-import Content from './src/components/content.vue';
-import Item from './src/components/item.vue';
+import Content from '@/components/content.vue';
+import Item from '@/components/item.vue';
 
-import getters from './src/store/getters.js';
+import getters from '@/store/getters.js';
 
 const localVue = createLocalVue();
 const router = new VueRouter();

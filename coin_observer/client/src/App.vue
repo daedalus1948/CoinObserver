@@ -9,7 +9,6 @@
 <script>
 
 import header from './components/header.vue';
-import content from './components/content.vue';
 import footer from './components/footer.vue';
 
 export default {
@@ -18,12 +17,11 @@ export default {
     'v-footer': footer
   },
   data () {
-      return { 
-      }
+      return {}
   },
   created() {
     this.$store.dispatch('fetchData');
-  },
+  }
 }
 </script>
 
