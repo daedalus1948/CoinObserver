@@ -6,6 +6,8 @@ which re-routes the data to the frontend and persists information into SQLite,
 and a mock remote service generating the asset data. Both parts of the backend portion
 are written in Node.js, using Express.js for REST-like API. 
 
+![CoinObserver](https://github.com/daedalus1948/project_images/blob/master/CoinObserver.png)
+
 ## Instructions
 
 For every part of the application, clone the repository and 'npm install' 
