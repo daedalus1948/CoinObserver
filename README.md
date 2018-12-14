@@ -29,4 +29,4 @@ refer to the scripts part of the package.json file for further instructions.
 Javascript ES6, Node.js 10+, Vue 2.0+, SQlite
 
 ## Thank you creators of Node, SQlite, Vue and others 
-## Created by Daedalus1948@github, 2018
+## Created by pre-zbr/Daedalus1948@github, 2018
